@@ -1,4 +1,4 @@
-especie,ilha,comprimento_binco_mm,profundidade_bico_mm,comprimento_nadadeira_mm,massa_g,sexo
+especie,ilha,comprimento_bico_mm,largura_do_bico_mm,comprimento_nadadeira_mm,massa_g,sexo
 Adelie,Torgersen,39.1,18.7,181,3750,MASCULINO
 Adelie,Torgersen,39.5,17.4,186,3800,FEMININO
 Adelie,Torgersen,40.3,18,195,3250,FEMININO
